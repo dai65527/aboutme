@@ -64,7 +64,8 @@
 ### レイトレーサ実装
 - フルスクラッチのレイトレーサを実装
 - 基本図形の描画、鏡面反射、拡散反射などを実装
-- リポジトリ：（追記予定）
+- リポジトリ：https://github.com/dai65527/miniRT 
+![spheres](assets/spheres.png)
 
 ### Shell実装
 - 最低限の機能を備えたShellを自作
