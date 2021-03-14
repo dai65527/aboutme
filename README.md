@@ -81,9 +81,9 @@
 
 ## C++
 ### コンテナクラス再実装
-- STLのコンテナクラスのlist、vector、map、stack、queueを実装
+- STLのコンテナクラスのlist、vector、map、stack、queue、及びイテレータシステムを実装
 - スキル：オブジェクト思考プログラミング、テンプレートプログラミング、データ構造、アルゴリズム
-- リポジトリ：（追記予定）
+- リポジトリ：https://github.com/dai65527/ft_containers
 
 ### Webサーバ（作成中）
 - Nginxライクな軽量Webサーバを外部ライブラリなしで作成中
