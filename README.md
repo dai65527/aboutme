@@ -59,7 +59,7 @@
 - C言語の標準関数（libc）のサブセット及び汎用関数（split関数や単方向リスト）を実装
 - printfやatoiなどを実装し、メモリ操作、ビット演算などの基礎を習得
 - 学習記録：[浮動小数点型をprintfを使わずに出力する方法](https://qiita.com/daitai-daidai/items/44632da01d4b0a18c33e)
-- リポジトリ：（追記予定）
+- リポジトリ：https://github.com/dai65527/libft
 
 ### レイトレーサ実装
 - フルスクラッチのレイトレーサを実装
