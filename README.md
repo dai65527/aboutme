@@ -67,12 +67,13 @@
 - リポジトリ：https://github.com/dai65527/miniRT 
 ![spheres](assets/spheres.png)
 
-### Shell実装
+### Shell再実装
 - 最低限の機能を備えたShellを自作
-- パイプ、リダイレクトなどにも対応
+- パイプ、リダイレクトにも対応
 - スキル：マルチプロセス、プロセス間通信
 - [TrainCoffeeBoy](https://github.com/TrainCoffeeBoy)さんとの共同プロジェクト
 - リポジトリ：https://github.com/dai65527/minishell
+- 動画：https://twitter.com/daitaidaidai789/status/1346351715293904896
 
 ### その他
 - マルチスレッド/プロセスプログラミング
