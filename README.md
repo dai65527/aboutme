@@ -65,6 +65,7 @@
 - フルスクラッチのレイトレーサを実装
 - 基本図形の描画、鏡面反射、拡散反射などを実装
 - リポジトリ：https://github.com/dai65527/miniRT 
+
 ![spheres](assets/spheres.png)
 
 ### Shell再実装
@@ -90,6 +91,8 @@
 - 同時アクセス処理、CGIプログラムに対応
 - HTTP、ソケットプログラミング、ノンブロッキングI/Oなど
 - リポジトリ（追記予定）
+
+![webservflow](assets/webserv_design.png)
 
 ## ネットワーク/インフラ
 ### ft_server
