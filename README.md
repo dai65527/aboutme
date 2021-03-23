@@ -2,9 +2,9 @@
 
 # 要約
 - 42Tokyoでソフトウェアエンジニアリングを学んでいます。
-- 早稲田機械院卒、前職は元大手プラントエンジニアリング企業。
 - 42TokyoでC/C++/Linux/Docker/Kubernetesを学習中
-- 独学でWeb技術（JavaScript/TypeScript/Vue\.js/React/NodeJS/Ruby/Ruby on Rails/AWS）を学習中
+- 独学でWeb技術（JavaScript/TypeScript/Vue\.js/React/NodeJS/Ruby/Go/AWS）を学習中
+- 早稲田機械院卒、前職は大手プラントエンジニアリング企業でエンジニアとして環境プラントの設計を担当。
 
 # 基本情報
 |key|value|
@@ -126,8 +126,7 @@
 - Webアプリケーション製作予定
 
 ### その他
-- Webアプリケーションの開発のため、NodeJSやVue.js、クラウド
-に関する学習をしています。
+- Webアプリケーションの開発のため、NodeJSやVue.js、Go言語、クラウドに関する学習をしています。
 - 学習記録：[Nuxt.jsとNestJSでTypeScriptなTodoリストを作ってみる（バックエンド編）]（https://qiita.com/daitai-daidai/items/a5e744120492bcc2c591）
 
 ## チーム開発
