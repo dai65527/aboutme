@@ -93,11 +93,13 @@
 - リポジトリ：https://github.com/dai65527/ft_containers
 
 ### Webサーバ（作成中）
-- Nginxライクな軽量Webサーバを外部ライブラリなしで作成中
-- イベント駆動による同時アクセス処理、CGIプログラムに対応
-- スキル：HTTP、ソケットプログラミング、ノンブロッキングI/Oなど
-- テストフレームワーク(google test)を導入。
-- リポジトリ（追記予定）
+- Nginxライクな軽量Webサーバを外部ライブラリなしのフルスクラッチで作成中。
+- イベント駆動による同時アクセス処理、CGIプログラムに対応。
+- スキル：HTTP、ソケットプログラミング、ノンブロッキングI/Oなど。
+- 単体テスト、統合テストを導入。(google test, Ruby)
+- GitHub ActionsによるCI環境を構築して開発中。
+- [TrainCoffeeBoy](https://github.com/TrainCoffeeBoy)さんとの共同プロジェクト
+- リポジトリ（制作中）: [https://github.com/dai65527/webserv](https://github.com/dai65527/webserv)
 
 ![webservflow](assets/webserv_design.png)
 
